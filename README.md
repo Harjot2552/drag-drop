@@ -42,9 +42,6 @@ project-folder/
 |-- drag_drop_icon.png
 ```
 
-## Screenshots 🖼️
-### Initial View
-![Initial Drag and Drop Page](screenshot.png)
 
 ## Improvements 📊
 - Add hover effects when dragging over droppable areas.
